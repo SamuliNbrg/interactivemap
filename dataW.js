@@ -3097,7 +3097,7 @@ var groupe = [
     y: 1105,
     txt1: "<p>Noble villa.</p>",
     ref: "N2"
-}, {
+}, */{
     name1: "Cassalanter Villa",
     name2: "",
     color: "#F4900A",
@@ -3105,7 +3105,7 @@ var groupe = [
     y: 1657,
     txt1: "<p>Noble villa.</p>",
     ref: "$48"
-}, {
+}, /* {
     name1: "Cragsmere Villa",
     name2: "",
     color: "#F4900A",
