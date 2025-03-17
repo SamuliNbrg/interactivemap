@@ -5509,7 +5509,15 @@ var groupe = [
     y: 3318,
     txt1: "<p>Vault. Final resting place for travelers who die while in the city.</p>",
     ref: "CD1"
-}, {
+}, */{
+    name1: "Mistshore",
+    name2: "",
+    color: "#AAAAAA",
+    x: 822,
+    y: 4980,
+    txt1: "<p>A run-down Dock Ward neighborhood that reeks of fish and scorched timber</p>",
+    ref: "CD3"
+}, /*{
     name1: "Starry Cradles orphanage",
     name2: "",
     color: "#AAAAAA",
@@ -5524,7 +5532,7 @@ var groupe = [
     y: 3468,
     txt1: "<p>Tomb. Vast mausoleum with a row of low steps leading up to its high metal gates. Leads to an endless labyrinth of underground caverns where lie all the dead of Waterdeep who do not merit a place in any other tomb.</p>",
     ref: "CD2"
-}, {
+}, */{
     name1: "Ahghairon's Statue",
     name2: "",
     color: "#AAAAAA",
@@ -5532,7 +5540,7 @@ var groupe = [
     y: 3343,
     txt1: "<p>Tomb. A tall, marble sculpture of a bearded, robed wizard standing atop concentric steps and facing west toward the skyline of Waterdeep, his hands outstretched and a broad smile on his face.</p>",
     ref: "CD3"
-}, {
+}, /*{
     name1: "Merchants' Rest",
     name2: "",
     color: "#AAAAAA",
